@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchediQ", "SchediQ\SchediQ.csproj", "{EBECF3A2-372D-4E25-8031-4C680BF08F14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchediQTests", "SchediQTests\SchediQTests.csproj", "{D81CC7EA-FD03-4FB2-B985-61617F9653AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBECF3A2-372D-4E25-8031-4C680BF08F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBECF3A2-372D-4E25-8031-4C680BF08F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBECF3A2-372D-4E25-8031-4C680BF08F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBECF3A2-372D-4E25-8031-4C680BF08F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81CC7EA-FD03-4FB2-B985-61617F9653AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81CC7EA-FD03-4FB2-B985-61617F9653AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81CC7EA-FD03-4FB2-B985-61617F9653AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81CC7EA-FD03-4FB2-B985-61617F9653AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
