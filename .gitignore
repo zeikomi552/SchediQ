@@ -6,3 +6,6 @@
 /SchediQ/obj
 /SchediQTests/bin/Debug/net8.0
 /SchediQTests/obj
+/.vs/SchediQ
+/SchediQGui/bin/Debug/net8.0-windows
+/SchediQGui/obj
